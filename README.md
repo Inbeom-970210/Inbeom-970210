@@ -1,6 +1,6 @@
 # KIM INBEOM (포토폴리오)
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlsqja970210)](https://solved.ac/dlsqja970210
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlsqja970210)
 
 ## Skills
 <div>
