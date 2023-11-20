@@ -1,11 +1,6 @@
 # KIM INBEOM (포토폴리오)
 
-<div class="pull-left">
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlsqja970210)](https://solved.ac/dlsqja970210)
-</div>
-<div class="pull-right">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlsqja-970210&show_icons=true&theme=radical)
-</div>
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlsqja970210)](https://solved.ac/dlsqja970210
 
 ## Skills
 <div>
@@ -38,3 +33,7 @@
 - [정채기](http://www.jeongchaegi.com/): 청년 정책 안내 서비스 
 - [술렁술렁](https://sulleong.site/): 빅데이터 기반 맥주 추천 서비스
 - [commit Pixel](https://commitpixel.com/): 공유 캔버스를 통한 URL 홍보 서비스
+
+
+## State
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inbeom-970210&show_icons=true&theme=radical)
