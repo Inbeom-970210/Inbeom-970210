@@ -1,5 +1,3 @@
-# KIM INBEOM ([이력서](https://jumpy-moonflower-a75.notion.site/068b8a75eaf6470789373f4d28be5d4b?pvs=4))
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Inbeom's%20GitHub&animation=fadeIn&fontColor=000000&fontSize=50" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInbeom-970210&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
